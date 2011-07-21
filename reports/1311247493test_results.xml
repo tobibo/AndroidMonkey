@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="monkey test" tests="1" errors="0" failures="0" skip="0">
+<testcase classname="monkeyTest.success" name="monkey_runner" time="0">
+</testcase>
+</testsuite>
