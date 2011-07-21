@@ -1,0 +1,1 @@
+../kaufda_mobile/kaufDA-release/tests/monkey_runner.sh
