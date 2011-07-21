@@ -1,0 +1,9 @@
+Android Monkey is a simple shell script to run android monkey tests automatically. 
+
+You can use a Continuous Integration Server like Hudson or just a cron job, whatever you prever.
+
+
+The script generate a random seed to start the monkey with, this seed will be saved if a crash has happened.
+When rerunning the script, this seed will be used and this way the monkey injects the same random events as when the app crashed. 
+
+Feel free to fork the this and contribute back :)
